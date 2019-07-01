@@ -1,6 +1,6 @@
 # GPG Public Key
 
-## 建议从 keys.openpgp.org 服务器获得经过邮箱验证的密钥（[有别于目前广泛使用的分布式密钥服务器，它们正遭受难以缓解的攻击！](https://gist.github.com/rjhansen/67ab921ffb4084c865b3618d6955275f)）  
+### 建议从 keys.openpgp.org 服务器获得经过邮箱验证的密钥（有别于目前广泛使用的分布式密钥服务器，它们正遭受[难以缓解的攻击](https://gist.github.com/rjhansen/67ab921ffb4084c865b3618d6955275f)！）  
 `gpg --keyserver hkps://keys.openpgp.org --search-keys 22A41C1EA3490FFF2F80B9488A1F66AB320A13A4`  
 `gpg --keyserver hkps://keys.openpgp.org --search-keys F201392846AB2E06B9086F3D26685165F2D3F403`  
 `gpg --keyserver hkps://keys.openpgp.org --search-keys C05BA35D2783D08AEC5F454263AAB8A8D7330413`  
